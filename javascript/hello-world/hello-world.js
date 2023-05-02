@@ -7,4 +7,4 @@ export function hello() {
   return 'Hello, World!';
 }
 
-function hello()
+hello()
